@@ -25,7 +25,7 @@ const DestinationSearch = () => {
           textInput:styles.searchInput
       }}
       query={{
-        key: 'AIzaSyAxkG9ETC1m9SdvG2ERrxaXLFJQ5E9C8ws',
+        key: 'YOUR_API_KEY',
         language: 'en',
         types:'(cities)'
       }}
